@@ -1,2 +1,2 @@
 # WOW_IHPC
-In this repository, I am going to push all my code that I do for my internship with my school's WOW program!
+In this repository, we are going to push all our code for our internship for our school's WOW program with IHPC deep learning project!
